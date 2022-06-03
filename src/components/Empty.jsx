@@ -1,4 +1,3 @@
-
 import styles from "./Empty.module.css";
 
 export function Empty() {
